@@ -18,27 +18,27 @@ as data recovery to all the IT infrastructures in need.
 
 **HARDWARE REQUIREMENTS:**
 
-Operating system : Windows and Linux specified
+>Operating system : Windows and Linux specified
 
-RAM : 512MB (minimum requirement)
+>RAM : 512MB (minimum requirement)
 
-Hard Disk : 1GB working space (minimum requirement)
+>Hard Disk : 1GB working space (minimum requirement)
 
 **SOFTWARE REQUIREMENTS:**
 
-Languages: Python
+>Languages: Python
 
-Tools: PyCharm, Python 3.11
+>Tools: PyCharm, Python 3.11
 
-Technology: Advanced programming using Python
+>Technology: Advanced programming using Python
 
 **• Modules used:** 
 
-**1. Smtplib:** The module included in python defines an SMTP client session object that can
+>**1. Smtplib:** The module included in python defines an SMTP client session object that can
 beused to send mail to any internet machine with an SMTP listener daemon.
 
-**2. Threading:** It is one of the modules provided with python includes a simple-to implementlocking mechanism that allows you to synchronize threads.
+>**2. Threading:** It is one of the modules provided with python includes a simple-to implementlocking mechanism that allows you to synchronize threads.
 
-**3. Pynput:** This library allows the users to control and monitor input devices. e.g.;
+>**3. Pynput:** This library allows the users to control and monitor input devices. e.g.;
 pynput.mouse, pynput.keyboard
 
